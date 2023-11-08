@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Bo"
+    },
+    {
+      "name": "Florence Jones",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Ergonomic Plastic Keyboard",
+      "id": 1
+    },
+    {
+      "userId": 3,
+      "title": "Refined Plastic Bike",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5610119798718464",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5553548588744704",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7915888573415424",
+      "id": 3
+    }
+  ]
+}
